@@ -1,1 +1,4 @@
 changes made in file 2 
+
+comparing staging area with repositiory 
+this command shows the difference between yoour last commit and staging area. 
